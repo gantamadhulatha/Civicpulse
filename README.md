@@ -1,2 +1,2 @@
 # Civicpulse
-its a internal hacakthon project
+CivicSight AI is an AI-powered web platform that enables citizens to report civic issues using images and location details. The system uses Google Gemini AI to analyze reported images, classify the issue, and assign priority based on severity. With support for both automatic and manual location detection via Google Maps, CivicSight AI helps authorities resolve critical civic problems faster, making cities smarter and more responsive
