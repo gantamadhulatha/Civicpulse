@@ -1,0 +1,8 @@
+{
+  "name": "CivicPulse",
+  "description": "An AI-powered civic issue reporting platform that automatically classifies and maps community concerns using Gemini AI and Google Maps.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

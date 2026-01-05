@@ -1,0 +1,7 @@
+/* Minimal CSS to satisfy build and provide base styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+html,body,#root { height: 100%; }
+body { margin: 0; font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+/* Utility: ensure map container fills its parent */
+#map-container { min-height: 400px; height: 100%; width: 100%; }
